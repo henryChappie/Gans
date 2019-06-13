@@ -1,6 +1,6 @@
 # The ALL GAN 
 
-近年来，对抗式生成网络得到了飞速的发展，每个月都会有新的结构诞生，这些不同的模型能够被应用到不同的领域，下面是目前所有的技术论文的地址，你可以点击下面的链接查看文章的具体信息。
+近年来，生成式对抗网络得到了飞速的发展，每个月都会有新的结构诞生，这些不同的模型能够被应用到不同的领域，下面是目前所有的技术论文的地址，你可以点击下面的链接查看文章的具体信息。
 
 
 * 3D-ED-GAN - [Shape Inpainting using 3D Generative Adversarial Network and Recurrent Convolutional Networks](https://arxiv.org/pdf/1711.06375) 
