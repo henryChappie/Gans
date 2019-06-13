@@ -15,7 +15,7 @@
 * acGAN  -  [GAN的在线适应性课程学习]（https://arxiv.org/pdf/1808.00020） 
 * ACtuAL  -  [ACtuAL：在对抗性学习下的演员 - 评论家]（https://arxiv.org/pdf/1711.04755） 
 * AdaGAN  -  [AdaGAN：提升生成模型]（https://arxiv.org/pdf/1701.02386v1） 
-*自适应GAN  -  [使用类条件GAN自定义对抗示例生成器]（https://arxiv.org/pdf/1806.10496） 
+* AdaptGAN  -  [使用类条件GAN自定义对抗示例生成器]（https://arxiv.org/pdf/1806.10496） 
 * AdvEntuRe  -  [AdvEntuRe：使用知识引导示例进行文本蕴涵的对抗训练]（https://arxiv.org/pdf/1805.04680） 
 * AdvGAN  -  [用对抗性网络生成对抗性示例]（https://arxiv.org/pdf/1801.02610） 
 * AE-GAN  -  [AE-GAN：用GAN消除对抗]（https://arxiv.org/pdf/1707.05474） 
@@ -47,8 +47,8 @@
 * B-DCGAN  -  [B-DCGAN：用于FPGA的二值化DCGAN评估]（https://arxiv.org/pdf/1803.10930） 
 * b-GAN  -  [密度比率估算视角下的生成对抗网]（https://arxiv.org/pdf/1610.02920） 
 * BAGAN  -  [BAGAN：平衡GAN的数据扩充]（https://arxiv.org/pdf/1803.09655） 
-*贝叶斯GAN  -  [深层和分层隐式模型]（https://arxiv.org/pdf/1702.08896） 
-*贝叶斯GAN  -  [贝叶斯GAN]（https://arxiv.org/pdf/1705.09558） （[github]（https://github.com/andrewgordonwilson/bayesgan/））
+* 贝叶斯GAN  -  [深层和分层隐式模型]（https://arxiv.org/pdf/1702.08896） 
+* 贝叶斯GAN  -  [贝叶斯GAN]（https://arxiv.org/pdf/1705.09558） （[github]（https://github.com/andrewgordonwilson/bayesgan/））
 * BCGAN  -  [贝叶斯条件生成Adverserial网络]（https://arxiv.org/pdf/1706.05477） 
 * BCGAN  -  [双向条件生成对抗网络]（https://arxiv.org/pdf/1711.07461） 
 * BEAM  -  [Boltzmann编码对抗机]（https://arxiv.org/pdf/1804.08682） 
@@ -94,16 +94,16 @@
 * CoGAN  -  [耦合生成对抗网络]（https://arxiv.org/pdf/1606.07536v2） 
 * ComboGAN  -  [ComboGAN：图像域转换的无限制可扩展性]（https://arxiv.org/pdf/1712.06909） （[github]（https://github.com/AAnoosheh/ComboGAN））
 * ConceptGAN  -  [学习具有相互一致性的组合视觉概念]（https://arxiv.org/pdf/1711.06148） 
-*条件循环GAN  -  [用于属性引导面部图像生成的条件CycleGAN]（https://arxiv.org/pdf/1705.09966） 
+* 条件循环GAN  -  [用于属性引导面部图像生成的条件CycleGAN]（https://arxiv.org/pdf/1705.09966） 
 * constrast-GAN  -  [使用对比GAN的生成语义操作]（https://arxiv.org/pdf/1708.00315） 
 * Context-RNN-GAN  -  [用于抽象推理图生成的上下文RNN-GAN]（https://arxiv.org/pdf/1609.09444） 
 * CorrGAN  -  [使用对抗性训练生成相关离散数据]（https://arxiv.org/pdf/1804.00925） 
-*库仑GAN  -  [库仑GAN：通过势场可证明最佳纳什均衡]（https://arxiv.org/pdf/1708.08819） 
+* 库仑GAN  -  [库仑GAN：通过势场可证明最佳纳什均衡]（https://arxiv.org/pdf/1708.08819） 
 * Cover-GAN  -  [基于生成对抗网络的Kerckhoffs原理的生成隐写术]（https://arxiv.org/pdf/1711.04916） 
-*牛仔 -  [利用整个GAN防御对抗性攻击]（https://arxiv.org/pdf/1805.10652） 
+* 牛仔 -  [利用整个GAN防御对抗性攻击]（https://arxiv.org/pdf/1805.10652） 
 * CR-GAN  -  [CR-GAN：多视图生成的学习完整表示]（https://arxiv.org/pdf/1806.11191） 
 *CramèrGAN -  [Cramer距离作为有偏见的Wasserstein梯度的解决方案]（https://arxiv.org/pdf/1705.10743） 
-*跨GAN  -  [用于跨视图人员重新识别的跨越生成对抗网络]（https://arxiv.org/pdf/1801.01760） 
+* 跨GAN  -  [用于跨视图人员重新识别的跨越生成对抗网络]（https://arxiv.org/pdf/1801.01760） 
 * crVAE-GAN  -  [通道重复变分自动编码器]（https://arxiv.org/pdf/1706.03729） 
 * CS-GAN  -  [利用条件序列生成对抗网改进神经机器翻译]（https://arxiv.org/pdf/1703.04887） 
 * CSG  -  [具有条件顺序生成对抗网络的语音驱动表达性嘴唇]（https://arxiv.org/pdf/1806.00154） 
@@ -147,15 +147,15 @@
 * DTN  -  [无监督跨域图像生成]（https://arxiv.org/pdf/1611.02200） 
 * DTR-GAN  -  [DTR-GAN：用于视频摘要的扩张时间关系对抗网络]（https://arxiv.org/pdf/1804.11228） 
 * DualGAN  -  [DualGAN：用于图像到图像翻译的无监督双重学习]（https://arxiv.org/pdf/1704.02510v1） 
-*双重GAN  -  [双重GAN]（https://arxiv.org/pdf/1706.06216） 
+* 双重GAN  -  [双重GAN]（https://arxiv.org/pdf/1706.06216） 
 * DVGAN  -  [使用DVGAN进行人体运动建模]（https://arxiv.org/pdf/1804.10652） 
-*动态转移GAN  -  [动态转移GAN：通过将任意时间动态从源视频转移到单个目标图像来生成视频]（https://arxiv.org/pdf/1712.03534） 
+* 动态转移GAN  -  [动态转移GAN：通过将任意时间动态从源视频转移到单个目标图像来生成视频]（https://arxiv.org/pdf/1712.03534） 
 * E-GAN  -  [进化生成对抗网络]（https://arxiv.org/pdf/1803.00657） 
 * EAR  -  [异构推理的生成模型]（https://arxiv.org/pdf/1804.09858） 
 * EBGAN  -  [基于能量的生成性对抗网络]（https://arxiv.org/pdf/1609.03126v4） 
 * ecGAN  -  [eCommerceGAN：电子商务的生成性对抗网络]（https://arxiv.org/pdf/1801.03244） 
 * ED // GAN  -  [通过正规化稳定生成对抗性网络的培训]（https://arxiv.org/pdf/1705.09367） 
-*可编辑的GAN  -  [可编辑的生成对抗网络：同时生成和编辑面部]（https://arxiv.org/pdf/1807.07700） 
+* 可编辑的GAN  -  [可编辑的生成对抗网络：同时生成和编辑面部]（https://arxiv.org/pdf/1807.07700） 
 * EGAN  -  [增强经验重播生成以实现高效强化学习]（https://arxiv.org/pdf/1705.08245） 
 * EL-GAN  -  [EL-GAN：嵌入损失驱动的生成对抗网络进行车道检测]（https://arxiv.org/pdf/1806.05525） 
 * ELEGANT  -  [ELEGANT：与GAN交换潜在编码以传输多个面部属性]（https://arxiv.org/pdf/1803.10562） 
@@ -167,14 +167,14 @@
 * f-CLSWGAN  -  [特征生成零镜头学习网络]（https://arxiv.org/pdf/1712.00981） 
 * f-GAN  -  [f-GAN：使用变分向最小化训练生成神经采样器]（https://arxiv.org/pdf/1606.00709） 
 * FairGAN  -  [FairGAN：公平感知的生成对抗网络]（https://arxiv.org/pdf/1805.11202） 
-*公平GAN  -  [公平GAN]（https://arxiv.org/pdf/1805.09910） 
+* 公平GAN  -  [公平GAN]（https://arxiv.org/pdf/1805.09910） 
 * FakeGAN  -  [使用生成对抗网络检测欺骗性评论]（https://arxiv.org/pdf/1805.10364） 
 * FBGAN  -  [DNA的反馈GAN（FBGAN）：用于优化蛋白质功能的新型反馈环结构]（https://arxiv.org/pdf/1804.01694） 
 * FBGAN  -  [特征化双向GAN：通过对话学习的语义推理进行对抗性辩护]（https://arxiv.org/pdf/1805.07862） 
 * FC-GAN  -  [用于图像合成的快速收敛条件生成对抗网络]（https://arxiv.org/pdf/1805.01972） 
 * FF-GAN  -  [面向野外的大型脸部正面化]（https://arxiv.org/pdf/1704.06244） 
 * FGGAN  -  [用于细粒度图像搜索的对抗性学习]（https://arxiv.org/pdf/1807.02247） 
-*虚构的GAN  -  [虚构的GAN：用历史模型训练GAN]（https://arxiv.org/pdf/1803.08647） 
+* 虚构的GAN  -  [虚构的GAN：用历史模型训练GAN]（https://arxiv.org/pdf/1803.08647） 
 * FIGAN  -  [具有多尺度深度损失函数和生成对抗网络的帧插值]（https://arxiv.org/pdf/1711.06045） 
 * Fila-GAN  -  [使用GAN合成基底结构化图像]（https://arxiv.org/pdf/1706.02185） 
 * First Order GAN  -  [First Order Generative Adversarial Networks]（https://arxiv.org/pdf/1802.04591） （[github]（https://github.com/zalandoresearch/first_order_gan））
@@ -219,7 +219,7 @@
 * GcGAN  -  [单面无监督域映射的几何一致的对抗网络]（https://arxiv.org/pdf/1809.05852） 
 * GeneGAN  -  [GeneGAN：来自不成对数据的学习对象变形和属性子空间]（https://arxiv.org/pdf/1705.04932） （[github]（https://github.com/Prinsphield/GeneGAN））
 * GeoGAN  -  [通过几何引导的GAN生成实例分段注释]（https://arxiv.org/pdf/1801.08839） 
-*几何GAN  -  [几何GAN]（https://arxiv.org/pdf/1705.02894） 
+* 几何GAN  -  [几何GAN]（https://arxiv.org/pdf/1705.02894） 
 * GIN  -  [生成性可逆网络（GIN）：病理生理学 - 可解释的特征映射和虚拟患者生成]（https://arxiv.org/pdf/1808.04495） 
 * GLCA-GAN  -  [全球和地方一致年龄生成对抗网络]（https://arxiv.org/pdf/1801.08390） 
 * GM-GAN  -  [用于不同数据集的高斯混合生成对抗网络，以及无监督的图像聚类]（https://arxiv.org/pdf/1808.10356） 
@@ -248,7 +248,7 @@
 * IFcVAEGAN  -  [带有对抗性信息分解的条件自动编码器]（https://arxiv.org/pdf/1711.05175） 
 * iGAN  -  [自然图像流形上的生成视觉操作]（https://arxiv.org/pdf/1609.03552v2） （[github]（https://github.com/junyanz/iGAN））
 * IGMM-GAN  -  [耦合IGMM-GAN用于人类移动数据中的深度多模态异常检测]（https://arxiv.org/pdf/1809.02728） 
-*改进的GAN  -  [改进的GAN训练技术]（https://arxiv.org/pdf/1606.03498） （[github]（https://github.com/openai/improved-gan））
+* 改进的GAN  -  [改进的GAN训练技术]（https://arxiv.org/pdf/1606.03498） （[github]（https://github.com/openai/improved-gan））
 * In2I  -  [In2I：使用生成对抗网络的无监督多图像到图像转换]（https://arxiv.org/pdf/1711.09334） 
 * InfoGAN  -  [InfoGAN：通过信息学习最大化生成性对抗网络的可解释表示]（https://arxiv.org/pdf/1606.03657v1） （[github]（https://github.com/openai/InfoGAN））
 * IntroVAE  -  [IntroVAE：用于摄影图像合成的内省变分自动编码器]（https://arxiv.org/pdf/1807.06358） 
@@ -314,7 +314,7 @@
 * MMD-GAN  -  [MMD GAN：更深入了解时刻匹配网络]（https://arxiv.org/pdf/1705.08584） （[github]（https://github.com/dougalsutherland/opt-mmd））
 * MMGAN  -  [MMGAN：用于生成图像的流形匹配生成对抗网络]（https://arxiv.org/pdf/1707.08273） 
 * MoCoGAN  -  [MoCoGAN：分解视频生成的动作和内容]（https://arxiv.org/pdf/1707.04993） （[github]（https://github.com/sergeytulyakov/mocogan））
-*修改的GAN-CLS  -  [使用修改的GAN-CLS算法从文本描述生成相应的图像]（https://arxiv.org/pdf/1806.11302） 
+* 修改的GAN-CLS  -  [使用修改的GAN-CLS算法从文本描述生成相应的图像]（https://arxiv.org/pdf/1806.11302） 
 * ModularGAN  -  [Modular Generative Adversarial Networks]（https://arxiv.org/pdf/1804.03343） 
 * MolGAN  -  [MolGAN：小分子图的隐式生成模型]（https://arxiv.org/pdf/1805.11973） 
 * MPM-GAN  -  [消息传递多代理GAN]（https://arxiv.org/pdf/1612.01294） 
@@ -336,7 +336,7 @@
 * PAN  -  [用于图像到图像转换的感知对抗网络]（https://arxiv.org/pdf/1706.09138） 
 * PassGAN  -  [PassGAN：用于密码猜测的深度学习方法]（https://arxiv.org/pdf/1709.00440） 
 * PD-WGAN  -  [Primal-Dual Wasserstein GAN]（https://arxiv.org/pdf/1805.09575） 
-*感知GAN  -  [用于小物体检测的感知生成对抗网络]（https://arxiv.org/pdf/1706.05274） 
+* 感知GAN  -  [用于小物体检测的感知生成对抗网络]（https://arxiv.org/pdf/1706.05274） 
 * PGAN  -  [Probabilistic Generative Adversarial Networks]（https://arxiv.org/pdf/1708.01886） 
 * PGD-GAN  -  [使用GAN Priors解决线性反问题：具有可证明保证的算法]（https://arxiv.org/pdf/1802.08406） 
 * PGGAN  -  [基于补丁的图像修复与生成对抗网络]（https://arxiv.org/pdf/1803.07422） 
@@ -354,11 +354,11 @@
 * PPGN  -  [即插即用生成网络：潜在空间中图像的条件迭代生成]（https://arxiv.org/pdf/1612.00005） 
 * PrGAN  -  [来自多个物体的2D视图的3D形状感应]（https://arxiv.org/pdf/1612.05872） 
 * ProGanSR  -  [一种完全渐进的单图像超分辨率方法]（https://arxiv.org/pdf/1804.02900） 
-*渐进式GAN  -  [改进质量，稳定性和变化的GAN的逐步增长]（https://arxiv.org/pdf/1710.10196） （[github]（https://github.com/tkarras/progressive_growing_of_gans））
+* 渐进式GAN  -  [改进质量，稳定性和变化的GAN的逐步增长]（https://arxiv.org/pdf/1710.10196） （[github]（https://github.com/tkarras/progressive_growing_of_gans））
 * PS-GAN  -  [Pedestrian-Synthesis-GAN：在真实场景中生成行人数据]（https://arxiv.org/pdf/1804.02047） 
 * PSGAN  -  [学习周期空间GAN的纹理流形]（http://arxiv.org/abs/1705.06566） 
 * PSGAN  -  [PSGAN：用于遥感图像泛锐化的生成性对抗网络]（https://arxiv.org/pdf/1805.03371） 
-*PS²-GAN  -  [使用多对抗网络的高质量面部照片 - 草图合成]（https://arxiv.org/pdf/1710.10182） 
+* PS²-GAN  -  [使用多对抗网络的高质量面部照片 - 草图合成]（https://arxiv.org/pdf/1710.10182） 
 * RadialGAN  -  [RadialGAN：利用多个数据集来改进使用生成对抗网络的特定目标预测模型]（http://arxiv.org/abs/1802.06403） 
 * RaGAN  -  [相对论鉴别器：标准GAN中缺少的关键元素]（https://arxiv.org/pdf/1807.00734） 
 * RAN  -  [RAN4IQA：用于无参考图像质量评估的修复性对抗网]（https://arxiv.org/pdf/1712.05444） （[github]（））
@@ -370,7 +370,7 @@
 * ReGAN  -  [ReGAN：RE [LAX | BAR | INFORCE]基于使用GAN的序列生成]（https://arxiv.org/pdf/1805.02788） （[github]（https://github.com/TalkToTheGAN/REGAN） ）
 * RegCGAN  -  [通过规范化条件GAN生成不成对的多域图像]（https://arxiv.org/pdf/1805.02456） 
 * RenderGAN  -  [RenderGAN：生成逼真的标记数据]（https://arxiv.org/pdf/1611.01331） 
-*类似GAN  -  [类似生成对抗网络：具有相似属性的两个域]（https://arxiv.org/pdf/1807.00947） 
+* 类似GAN  -  [类似生成对抗网络：具有相似属性的两个域]（https://arxiv.org/pdf/1807.00947） 
 * ResGAN  -  [基于Resnet进行条件图像恢复的生成对抗网络]（https://arxiv.org/pdf/1707.04881） 
 * RNN-WGAN  -  [使用无需预先训练的循环生成对抗网络生成语言]（https://arxiv.org/pdf/1706.01399） （[github]（https://github.com/amirbar/rnn.wgan） ）
 * RoCGAN  -  [强大的条件生成对抗网络]（https://arxiv.org/pdf/1805.08657） 
@@ -395,7 +395,7 @@
 * Sem-GAN  -  [Sem-GAN：语义一致的图像到图像翻译]（https://arxiv.org/pdf/1807.04409） 
 * SeqGAN  -  [SeqGAN：具有策略梯度的序列生成性对抗网络]（https://arxiv.org/pdf/1609.05473v5） （[github]（https://github.com/LantaoYu/SeqGAN））
 * SeUDA  -  [胸部X射线分割中无监督域适应的语义感知生成性对抗网]（https://arxiv.org/pdf/1806.00600） 
-* SG-GAN  -  [用于虚拟到真实城市场景适应的语义感知Grad-GAN]（https://arxiv.org/pdf/1801.01726） （[github]（https://github.com/Peilun-李/ SG-GAN））
+* SG-GAN  -  [用于虚拟到真实城市场景适应的语义感知Grad-GAN]（https://arxiv.org/pdf/1801.01726） （[github]（https://github.com/Peilun-li/ SG-GAN））
 * SG-GAN  -  [面向属性操作的稀疏分组多任务生成对抗网络]（https://arxiv.org/pdf/1805.07509） 
 * SGAN  -  [空间生成对抗网络的纹理合成]（https://arxiv.org/pdf/1611.08207） 
 * SGAN  -  [Stacked Generative Adversarial Networks]（https://arxiv.org/pdf/1612.04357v4） （[github]（https://github.com/xunhuang1995/SGAN））
@@ -420,9 +420,9 @@
 *社交GAN  -  [社交GAN：具有生成性对抗网络的社会可接受的轨迹]（https://arxiv.org/pdf/1803.10892） 
 * Softmax GAN  -  [Softmax GAN]（https://arxiv.org/pdf/1704.06191） 
 * SoPhie  -  [SoPhie：用于预测符合社会和物理限制的路径的细致GAN]（https://arxiv.org/pdf/1806.01482） 
-*语音驱动的动画GAN  -  [具有时间GAN的端到端语音驱动的面部动画]（https://arxiv.org/pdf/1805.09313） 
+* 语音驱动的动画GAN  -  [具有时间GAN的端到端语音驱动的面部动画]（https://arxiv.org/pdf/1805.09313） 
 * Spike-GAN  -  [使用生成对抗网络合成逼真的神经群体活动模式]（https://arxiv.org/pdf/1803.00338） 
-*分裂GAN  -  [类分裂生成对抗网络]（https://arxiv.org/pdf/1709.07359） 
+* 分裂GAN  -  [类分裂生成对抗网络]（https://arxiv.org/pdf/1709.07359） 
 * SR-CNN-VAE-GAN  -  [用于顺序数据生成的半循环CNN-VAE-GAN]（https://arxiv.org/pdf/1806.00509） （[github]（https://github.com/ makbari7 / SR-CNN-VAE-GAN））
 * SRGAN  -  [使用生成对抗网络的照片逼真单图像超分辨率]（https://arxiv.org/pdf/1609.04802） 
 * SRPGAN  -  [SRPGAN：用于单图像超分辨率的感知生成对抗网络]（https://arxiv.org/pdf/1712.05927） 
@@ -439,7 +439,7 @@
 * StarGAN-VC  -  [StarGAN-VC：与星形生成对抗网络的非并行多对多语音转换]（https://arxiv.org/pdf/1806.02169） 
 * SteinGAN  -  [学习深能量模型：对比分歧与摊销MLE]（https://arxiv.org/pdf/1707.00797） 
 * StepGAN  -  [通过逐步评估改进条件序列生成对抗网络]（https://arxiv.org/pdf/1808.05599） 
-*超级风扇 -  [超级风扇：使用GAN以任意姿势集成面部地标定位和真实世界低分辨率面部的超分辨率]（https://arxiv.org/pdf/1712.02765） 
+* 超级风扇 -  [超级风扇：使用GAN以任意姿势集成面部地标定位和真实世界低分辨率面部的超分辨率]（https://arxiv.org/pdf/1712.02765） 
 * SVSGAN  -  [SVSGAN：通过生成性对抗网络进行歌唱语音分离]（https://arxiv.org/pdf/1710.11428） 
 * SWGAN  -  [解决近似Wasserstein GAN到平稳性]（https://arxiv.org/pdf/1802.08249） 
 * SyncGAN  -  [SyncGAN：同步跨模式生成对抗网络的潜在空间]（https://arxiv.org/pdf/1804.00410） 
@@ -471,7 +471,7 @@
 * UGAN  -  [使用生成对抗网络增强水下图像]（https://arxiv.org/pdf/1801.04011） 
 * Unim2im  -  [使用生成对抗网络进行无监督的图像到图像转换]（https://arxiv.org/pdf/1701.02676）  （[github]（http://github.com/zsdonghao/Unsup-Im2Im））
 * UNIT  -  [无监督的图像到图像转换网络]（https://arxiv.org/pdf/1703.00848） （[github]（https://github.com/mingyuliutw/UNIT））
-*展开的GAN  -  [展开的生成对抗网络]（https://arxiv.org/pdf/1611.02163） （[github]（https://github.com/poolio/unrolled_gan））
+* 展开的GAN  -  [展开的生成对抗网络]（https://arxiv.org/pdf/1611.02163） （[github]（https://github.com/poolio/unrolled_gan））
 * UT-SCA-GAN  -  [基于生成对抗网络的空间图像隐写]（https://arxiv.org/pdf/1804.07939） 
 * UV-GAN  -  [UV-GAN：用于姿势不变人脸识别的对抗性面部UV地图完成]（https://arxiv.org/pdf/1712.04695） 
 * VA-GAN  -  [使用Wasserstein GAN的视觉特征归因]（https://arxiv.org/pdf/1711.08998） 
