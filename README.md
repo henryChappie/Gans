@@ -1,9 +1,30 @@
-# The GAN Collection Package
+## The GAN Collection Package
 近年来，对抗式生成网络得到了飞速的发展，每个月都会有新的结构诞生，这些不同的模型能够被应用到不同的领域，下面是目前所有的技术论文的地址，你可以点击下面的链接查看文章的具体信息。
 
+## 热门Gans结构：
+<img src='https://raw.githubusercontent.com/buriburisuri/ac-gan/master/png/architecture.png'/>
+<img src='https://camo.githubusercontent.com/e004d49943b2b1264496d5db1a9bff807afa8a68/687474703a2f2f6572696b6c696e6465726e6f72656e2e73652f696d616765732f646973636f67616e5f6172636869746563747572652e706e67'/>
 
+<img src='https://camo.githubusercontent.com/e8c023b62678aa244f1a474bf643c66c45ef0feb/687474703a2f2f6572696b6c696e6465726e6f72656e2e73652f696d616765732f706978327069785f6172636869746563747572652e706e67'/>
+
+<img src='https://camo.githubusercontent.com/07288b4b467fbf547c6757a448f8e786bf20f295/687474703a2f2f6572696b6c696e6465726e6f72656e2e73652f696d616765732f737570657272657367616e2e706e67'/>
+
+<img src='https://camo.githubusercontent.com/c653ddc55471557b851a7059540e80799fad7e29/687474703a2f2f6572696b6c696e6465726e6f72656e2e73652f696d616765732f6379636c6567616e2e706e67'/>
+
+
+<img src='https://camo.githubusercontent.com/c653ddc55471557b851a7059540e80799fad7e29/687474703a2f2f6572696b6c696e6465726e6f72656e2e73652f696d616765732f6379636c6567616e2e706e67'/>
+<img src='https://github.com/eriklindernoren/PyTorch-GAN/raw/master/assets/bicyclegan_architecture.jpg'/>
+<img src='https://github.com/LantaoYu/SeqGAN/raw/master/figures/seqgan.png'/>
+<img src='https://github.com/hanzhanggit/StackGAN/raw/master/examples/framework.jpg'/>
+<img src='https://github.com/taoxugit/AttnGAN/raw/master/framework.png'/>
+<img src='https://github.com/heykeetae/Self-Attention-GAN/raw/master/image/main_model.PNG'/>
+<img src='https://github.com/CR-Gjx/LeakGAN/raw/master/figures/leakgan.png'/>
+<img src='https://github.com/DmitryUlyanov/AGE/raw/master/data/readme_pics/age.png'/>
+<img src='https://github.com/hanzhanggit/StackGAN-v2/raw/master/examples/framework.jpg'/>
+<img src='https://github.com/hwwang55/GraphGAN/raw/master/framework.jpg'/>
+
+##  精彩论文
 * 3D-ED-GAN  -  [使用3D生成对抗网络和循环卷积网络进行形状修复]（https://arxiv.org/pdf/1711.06375） 
-<img src='https://github.com/timzhang642/3d_gan_tensorflow/raw/master/chair_gif.gif'/>
 * 3D-GAN  -  [通过3D生成 - 对抗建模学习对象形状的概率潜在空间]（https://arxiv.org/pdf/1610.07584） （[github]（https://github.com/zck119/3dgan））
 * 3D-IWGAN  -  [用于3D对象生成和重建的改进的对抗系统]（https://arxiv.org/pdf/1707.09557） （[github] （https://github.com/EdwardSmith1884/3D-IWGAN））
 * 3D-PhysNet  -  [3D-PhysNet：学习非刚性物体变形的直观物理学]（https://arxiv.org/pdf/1805.00328） 
