@@ -1,10 +1,10 @@
-##GAN ALL
+#GAN ALL
 
 近年来，对抗式生成网络得到了飞速的发展，每个月都会有新的结构诞生，这些不同的模型能够被应用到不同的领域，下面是目前所有的技术论文的地址，你可以点击下面的链接查看文章的具体信息。
 
 
 * 3D-ED-GAN  -  [使用3D生成对抗网络和循环卷积网络进行形状修复]（https://arxiv.org/pdf/1711.06375） 
-* 3D-GAN  -  [通过3D生成 - 对抗建模学习对象形状的概率潜在空间]（https://arxiv.org/pdf/1610.07584）（[github]（https://github.com/zck119/3dgan））
+* 3D-GAN  -  [通过3D生成 - 对抗建模学习对象形状的概率潜在空间]（https://arxiv.org/pdf/1610.07584） （[github]（https://github.com/zck119/3dgan -发布））
 * 3D-IWGAN  -  [用于3D对象生成和重建的改进的对抗系统]（https://arxiv.org/pdf/1707.09557）（[github]（https://github.com/EdwardSmith1884/3D-IWGAN））
 * 3D-PhysNet  -  [3D-PhysNet：学习非刚性物体变形的直观物理学]（https://arxiv.org/pdf/1805.00328） 
 * 3D-RecGAN  -  [从具有对抗性学习的单一深度视图进行3D对象重建]（https://arxiv.org/pdf/1708.07969）（[github]（https://github.com/Yang7879/3D-RecGAN） ）
@@ -470,7 +470,7 @@
 * Twin-GAN  -  [Twin-GAN  - 带有重量共享GAN的不成对跨域图像翻译]（https://arxiv.org/pdf/1809.00946） 
 * UGACH  -  [无监督的生成性对抗性跨模式哈希]（https://arxiv.org/pdf/1712.00358） 
 * UGAN  -  [使用生成对抗网络增强水下图像]（https://arxiv.org/pdf/1801.04011） 
-* Unim2im  -  [使用生成对抗网络进行无监督的图像到图像转换]（https://arxiv.org/pdf/1701.02676）（[github]（http://github.com/zsdonghao/Unsup-Im2Im））
+* Unim2im  -  [使用生成对抗网络进行无监督的图像到图像转换]（https://arxiv.org/pdf/1701.02676） （[github]（http://github.com/zsdonghao/Unsup-Im2Im））
 * UNIT  -  [无监督的图像到图像转换网络]（https://arxiv.org/pdf/1703.00848）（[github]（https://github.com/mingyuliutw/UNIT））
 *展开的GAN  -  [展开的生成对抗网络]（https://arxiv.org/pdf/1611.02163）（[github]（https://github.com/poolio/unrolled_gan））
 * UT-SCA-GAN  -  [基于生成对抗网络的空间图像隐写]（https://arxiv.org/pdf/1804.07939） 
@@ -495,12 +495,12 @@
 * weGAN  -  [多文本语料库的生成性对抗网]（https://arxiv.org/pdf/1712.09127） 
 * WGAN  -  [Wasserstein GAN]（https://arxiv.org/pdf/1701.07875v2）（[github]（https://github.com/martinarjovsky/WassersteinGAN））
 * WGAN-CLS  -  [使用生成对抗网络的文本到图像合成]（https://arxiv.org/pdf/1805.00676） 
-* WGAN-GP  -  [Wasserstein GAN的改进培训]（https://arxiv.org/pdf/1704.00028)([github)(https://github.com/igul222/improved_wgan_training))
+* WGAN-GP  -  [Wasserstein GAN的改进培训]（https://arxiv.org/pdf/1704.00028) ([github) (https://github.com/igul222/improved_wgan_training))
 * WGAN-L1  -  [子采样湍流清除网络]（https://arxiv.org/pdf/1807.04418） 
 * WS-GAN  -  [用于3D重建的弱监督生成对抗网络]（https://arxiv.org/pdf/1705.10904） 
 * X-GANs  -  [X-GANs：极端情况下的图像重建变得容易]（https://arxiv.org/pdf/1808.04432） 
 * XGAN  -  [XGAN：多对多映射的无监督图像到图像转换]（https://arxiv.org/pdf/1711.05139） 
 * ZipNet-GAN  -  [ZipNet-GAN：通过生成性对抗神经网络推断细粒度移动流量模式]（https://arxiv.org/pdf/1711.02413） 
-* α-GAN  -  [自动编码生成对抗网络的变分方法]（https://arxiv.org/pdf/1706.04987）（[github]（https://github.com/victor-shepardson/alpha-GAN） 
+* α-GAN  -  [自动编码生成对抗网络的变分方法]（https://arxiv.org/pdf/1706.04987）（[github]（https://github.com/victor-shepardson/alpha-GAN） ）
 * β-GAN  -  [退火生成对抗网络]（https://arxiv.org/pdf/1705.07505） 
 * Δ-GAN  -  [Triangle Generative Adversarial Networks]（https://arxiv.org/pdf/1709.06548） 
