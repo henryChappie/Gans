@@ -3,6 +3,7 @@
 
 
 * 3D-ED-GAN  -  [使用3D生成对抗网络和循环卷积网络进行形状修复]（https://arxiv.org/pdf/1711.06375） 
+<img src='https://github.com/timzhang642/3d_gan_tensorflow/raw/master/chair_gif.gif'/>
 * 3D-GAN  -  [通过3D生成 - 对抗建模学习对象形状的概率潜在空间]（https://arxiv.org/pdf/1610.07584） （[github]（https://github.com/zck119/3dgan））
 * 3D-IWGAN  -  [用于3D对象生成和重建的改进的对抗系统]（https://arxiv.org/pdf/1707.09557） （[github] （https://github.com/EdwardSmith1884/3D-IWGAN））
 * 3D-PhysNet  -  [3D-PhysNet：学习非刚性物体变形的直观物理学]（https://arxiv.org/pdf/1805.00328） 
