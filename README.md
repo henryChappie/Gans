@@ -1,8 +1,9 @@
-<h1>所有The GAN Collection Package</h1>
+<h1>The GAN Collection Package</h1>
 近年来，对抗式生成网络得到了飞速的发展，每个月都会有新的结构诞生，这些不同的模型能够被应用到不同的领域，下面是目前所有的技术论文的地址，你可以点击下面的链接查看文章的具体信息。
 
 ## 热门Gans结构：
 <img src='https://raw.githubusercontent.com/buriburisuri/ac-gan/master/png/architecture.png'/>
+<hr>
 <img src='https://camo.githubusercontent.com/e004d49943b2b1264496d5db1a9bff807afa8a68/687474703a2f2f6572696b6c696e6465726e6f72656e2e73652f696d616765732f646973636f67616e5f6172636869746563747572652e706e67'/>
 
 <img src='https://camo.githubusercontent.com/e8c023b62678aa244f1a474bf643c66c45ef0feb/687474703a2f2f6572696b6c696e6465726e6f72656e2e73652f696d616765732f706978327069785f6172636869746563747572652e706e67'/>
