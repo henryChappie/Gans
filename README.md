@@ -1,4 +1,4 @@
-## The GAN Collection Package
+<h1>所有The GAN Collection Package</h1>
 近年来，对抗式生成网络得到了飞速的发展，每个月都会有新的结构诞生，这些不同的模型能够被应用到不同的领域，下面是目前所有的技术论文的地址，你可以点击下面的链接查看文章的具体信息。
 
 ## 热门Gans结构：
@@ -12,7 +12,7 @@
 <img src='https://camo.githubusercontent.com/c653ddc55471557b851a7059540e80799fad7e29/687474703a2f2f6572696b6c696e6465726e6f72656e2e73652f696d616765732f6379636c6567616e2e706e67'/>
 
 
-<img src='https://camo.githubusercontent.com/c653ddc55471557b851a7059540e80799fad7e29/687474703a2f2f6572696b6c696e6465726e6f72656e2e73652f696d616765732f6379636c6567616e2e706e67'/>
+
 <img src='https://github.com/eriklindernoren/PyTorch-GAN/raw/master/assets/bicyclegan_architecture.jpg'/>
 <img src='https://github.com/LantaoYu/SeqGAN/raw/master/figures/seqgan.png'/>
 <img src='https://github.com/hanzhanggit/StackGAN/raw/master/examples/framework.jpg'/>
