@@ -3,11 +3,11 @@
 
 
 * 3D-ED-GAN  -  [使用3D生成对抗网络和循环卷积网络进行形状修复]（https://arxiv.org/pdf/1711.06375） 
-* 3D-GAN  -  [通过3D生成 - 对抗建模学习对象形状的概率潜在空间]（https://arxiv.org/pdf/1610.07584） （[github]（https://github.com/zck119/3dgan -发布））
+* 3D-GAN  -  [通过3D生成 - 对抗建模学习对象形状的概率潜在空间]（https://arxiv.org/pdf/1610.07584） （[github]（https://github.com/zck119/3dgan））
 * 3D-IWGAN  -  [用于3D对象生成和重建的改进的对抗系统]（https://arxiv.org/pdf/1707.09557） （[github] （https://github.com/EdwardSmith1884/3D-IWGAN））
 * 3D-PhysNet  -  [3D-PhysNet：学习非刚性物体变形的直观物理学]（https://arxiv.org/pdf/1805.00328） 
 * 3D-RecGAN  -  [从具有对抗性学习的单一深度视图进行3D对象重建]（https://arxiv.org/pdf/1708.07969） （[github]（https://github.com/Yang7879/3D-RecGAN） ）
-* ABC-GAN  -  [ABC-GAN：自适应模糊和控制，用于提高生成对抗网络的训练稳定性]（https://drive.google.com/file/d/0B3wEP_lEl0laVTdGcHE2VnRiMlE/view） （[github]（https：/ /github.com/IgorSusmelj/ABC-GAN））
+* ABC-GAN  -  [ABC-GAN：自适应模糊和控制，用于提高生成对抗网络的训练稳定性]（https://drive.google.com/file/d/0B3wEP_lEl0laVTdGcHE2VnRiMlE/view） （[github]（https://github.com/IgorSusmelj/ABC-GAN））
 * ABC-GAN  -  [生命的GAN：无可能性推论的生成性对抗网络]（https://arxiv.org/pdf/1711.11139） 
 * AC-GAN  -  [带辅助分类器GAN的条件图像合成]（https://arxiv.org/pdf/1610.09585） 
 * acGAN  -  [使用条件生成对抗网络进行面部老化]（https://arxiv.org/pdf/1702.01983） 
