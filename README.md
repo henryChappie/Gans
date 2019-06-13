@@ -1,4 +1,4 @@
-#GAN ALL
+##GAN ALL
 
 近年来，对抗式生成网络得到了飞速的发展，每个月都会有新的结构诞生，这些不同的模型能够被应用到不同的领域，下面是目前所有的技术论文的地址，你可以点击下面的链接查看文章的具体信息。
 
@@ -501,6 +501,6 @@
 * X-GANs  -  [X-GANs：极端情况下的图像重建变得容易]（https://arxiv.org/pdf/1808.04432） 
 * XGAN  -  [XGAN：多对多映射的无监督图像到图像转换]（https://arxiv.org/pdf/1711.05139） 
 * ZipNet-GAN  -  [ZipNet-GAN：通过生成性对抗神经网络推断细粒度移动流量模式]（https://arxiv.org/pdf/1711.02413） 
-*α-GAN  -  [自动编码生成对抗网络的变分方法]（https://arxiv.org/pdf/1706.04987）（[github]（https://github.com/victor-shepardson/alpha-GAN） ）
+*α-GAN  -  [自动编码生成对抗网络的变分方法]（https://arxiv.org/pdf/1706.04987）（[github]（https://github.com/victor-shepardson/alpha-GAN） 
 *β-GAN  -  [退火生成对抗网络]（https://arxiv.org/pdf/1705.07505） 
 *Δ-GAN  -  [Triangle Generative Adversarial Networks]（https://arxiv.org/pdf/1709.06548） 
